@@ -1,0 +1,9 @@
+Encoding: UTF-8
+Package: PHP-R
+Type: Package
+Title: A PHP Framework for R-Project
+Version: 0.1
+Authors@R: c(
+  person(family="Administra e Innova", role="aut"),
+  person(family="Raul Moreno Izquierdo", role="aut"),)
+License: MIT + file LICENSE
